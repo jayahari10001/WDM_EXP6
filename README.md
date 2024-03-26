@@ -90,3 +90,4 @@ print("The high rank cosine score is",x)
 
 
 ### Result:
+Thus to implement Information Retrieval Using Vector Space Model in Python is successfullly executed.
